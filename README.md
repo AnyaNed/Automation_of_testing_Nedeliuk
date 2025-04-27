@@ -1,1 +1,0 @@
-# Automation_of_testing_Nedeliuk
